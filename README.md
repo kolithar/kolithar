@@ -1,21 +1,65 @@
-# Hi 👋 I'm Kolitha Rathnayake  
+# 👋 Hi there, I'm Kolitha Rathnayake
 
-🎓 Software Engineering Student | 💻 Full-Stack Developer  
+🚀 **Software Engineering Student | Full-Stack Developer**
 
-I’m a passionate software engineering student from Sri Lanka 🇱🇰  
-I love building real-world systems and web applications 🚀  
+I’m a passionate Software Engineering student from Sri Lanka 🇱🇰
+I enjoy building scalable backend systems and modern web applications.
+Always curious to learn new technologies and improve my problem-solving skills 💡
 
-## 🛠️ Tech Stack  
-- Java  
-- JavaScript  
-- HTML, CSS, Bootstrap  
-- MySQL  
-- Hibernate  
+---
 
-## 📂 Projects  
-- Serenity Mental Health Therapy Center System  
-- Mini POS System (MVC)  
-- Hospital Readmission Data Analysis  
+## 🧠 About Me
 
-## 🌐 Connect With Me  
-- GitHub: https://github.com/kolithar
+* 🎓 Studying Software Engineering
+* 💻 Focused on **Backend Development & Microservices**
+* 🌱 Currently learning **Cloud (AWS) & System Design**
+* ⚡ Love working with real-world projects and APIs
+
+---
+
+🛠️ Tech Stack
+
+ 💻 Languages
+
+`Java` | `JavaScript`
+
+ 🎨 Frontend
+
+`HTML` | `CSS` | `Bootstrap`
+
+⚙️ Backend
+
+`Spring Boot` | `Hibernate`
+
+🗄️ Databases
+
+`MySQL` | `MongoDB`
+
+☁️ Cloud & Tools
+
+`AWS` | `Git` | `Postman` | `IntelliJ IDEA`
+
+---
+
+## 📊 GitHub Stats
+
+
+## 🔥 GitHub Streak
+
+
+---
+
+## 🌐 Connect With Me
+
+* 💻 GitHub: https://github.com/kolithar
+* 🔗 LinkedIn: 
+---
+
+## 🚀 Featured Projects
+
+* 🔹 Project Name – Short description
+* 🔹 Project Name – Short description
+
+---
+
+✨ *“Code. Learn. Build. Repeat.”*
